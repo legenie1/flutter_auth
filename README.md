@@ -1,11 +1,8 @@
-# Gesta LAuthentification UI
+# Gesta Authentification UI
 
 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-My first project with flutter
 
 #This is the Login Page
 ![WhatsApp Image 2022-07-30 at 15 34 26](https://user-images.githubusercontent.com/72471055/181919193-326937c2-6ae5-41a2-aede-b8b6d418218a.jpeg)
